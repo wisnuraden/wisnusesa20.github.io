@@ -1,0 +1,46 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500&display=swap');
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar {
+    background: #000000;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #006aff, #00d2ff);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #3a7bd5, #00d2ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.nama-atas {
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.nama,.namabawah {
+    color: white;
+}
+
+.about {
+    background-color: #006aff;
+    color: white;
+}
+#contact {
+    color: white;
+    background-color: #006aff;
+}
+.project
+{
+    background-color: #000000;
+}
+
+footer {
+    background-color:  #065bdb;
+    color: white;
+}
+.jumbotron {
+    
+    padding-top: 2rem;
+    background-color: #000000;
+}
+
+section {
+padding-top: 5rem;
+}
